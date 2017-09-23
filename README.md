@@ -6,7 +6,7 @@
 
 [DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon) (We're sharing resources-- there are issues related to restaurant data you can close out there)
 
-[Restaurant Inspection Data Processing Repo] (https://github.com/jasonasher/dc_restaurant_inspections)
+[Restaurant Inspection Data Processing Repo](https://github.com/jasonasher/dc_restaurant_inspections)
 
 ## DropBox Folders w/ Data:
 
