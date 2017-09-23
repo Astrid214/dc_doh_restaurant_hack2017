@@ -4,7 +4,9 @@
 
 [Project Collaborative Doc](https://docs.google.com/document/d/1om26hcKqqP4raQteocMEOLAkF9ezKg0c94qeVGh0YfY/edit)
 
-[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon) (We're sharing resources)
+[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon) (We're sharing resources-- there are issues related to restaurant data you can close out there)
+
+[Restaurant Inspection Data Processing Repo] (https://github.com/jasonasher/dc_restaurant_inspections)
 
 ## DropBox Folders w/ Data:
 
