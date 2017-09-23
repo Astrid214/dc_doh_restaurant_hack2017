@@ -4,7 +4,7 @@
 
 [Project Collaborative Doc](https://docs.google.com/document/d/1om26hcKqqP4raQteocMEOLAkF9ezKg0c94qeVGh0YfY/edit)
 
-[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon}
+[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon)
 
 ## DropBox Folders w/ Data:
 
