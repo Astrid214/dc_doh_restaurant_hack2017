@@ -1,2 +1,5 @@
-# dc_doh_restaurant_hack2017
-Repository for DOH Restaurant Inspections project for DH HHS Hackathon on September 23, 2017
+# Project Doc here
+
+https://docs.google.com/document/d/1om26hcKqqP4raQteocMEOLAkF9ezKg0c94qeVGh0YfY/edit
+
+
