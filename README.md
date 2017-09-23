@@ -1,10 +1,10 @@
-# Welcome!
+# Welcome to the DOH Food Establishments Inspections Project!
 
 ## All you need to know for today
 
 [Project Collaborative Doc](https://docs.google.com/document/d/1om26hcKqqP4raQteocMEOLAkF9ezKg0c94qeVGh0YfY/edit)
 
-[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon) (We're sharing resources!)
+[DOH Rats Project project GitHub Repo](https://github.com/jasonasher/dc_doh_hackathon) (We're sharing resources)
 
 ## DropBox Folders w/ Data:
 
