@@ -37,8 +37,8 @@ We are recruiting individuals for the following types of tasks:
 * Data visualization: Look at the available datasets (See the "Dataset summary" tab in our sign up sheet, chat with DC DOH agency representatives about maps and visualizations of interest, and create the visualizations!
 * User interface/experience (UI/UX):
 * Build out features for our existing 311 data portal in R Shiny (http://dc311portal.codefordc.org/)
-     i. Design and start to develop a web application for the public to view DOH inspection reports for food retail establishments
-    ii. Design and start to develop an application for DOH staff that tracks upcoming inspections, displays information on expiring licenses, and aids in the efficient prioritization of follow-up inspections.
-   iii. Project management: Interested in helping us manage the project? Chat with one of the project leads!
+     <br></br>i. Design and start to develop a web application for the public to view DOH inspection reports for food retail establishments
+    <br></br>ii. Design and start to develop an application for DOH staff that tracks upcoming inspections, displays information on expiring licenses, and aids in the efficient prioritization of follow-up inspections.
+   <br></br>iii. Project management: Interested in helping us manage the project? Chat with one of the project leads!
 
 
