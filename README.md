@@ -26,6 +26,19 @@ Food establishments that sell or serve food to the public must apply for a healt
 * Develop a model featuring relationships between location, risk category, serious food-safety violations, closure etc.
 * Develop an application for DOH staff that tracks upcoming inspections, displays information on expiring licenses, and aids in the efficient prioritization of follow-up inspections.
 
+# Join the projects
 
+1. Add your name to our sign up sheet in the "Sign up sheet" tab
+2. Find an available task under Github Issues, assign yourself or your group to the task, and get hacking!
+
+We are recruiting individuals for the following types of tasks:
+
+* Data cleaning: Help us convert raw data frames into clean feature datasets that are ready to integrate into models!
+* Data visualization: Look at the available datasets (See the "Dataset summary" tab in our sign up sheet, chat with DC DOH agency representatives about maps and visualizations of interest, and create the visualizations!
+* User interface/experience (UI/UX):
+* Build out features for our existing 311 data portal in R Shiny (http://dc311portal.codefordc.org/)
+     i. Design and start to develop a web application for the public to view DOH inspection reports for food retail establishments
+    ii. Design and start to develop an application for DOH staff that tracks upcoming inspections, displays information on expiring licenses, and aids in the efficient prioritization of follow-up inspections.
+   iii. Project management: Interested in helping us manage the project? Chat with one of the project leads!
 
 
