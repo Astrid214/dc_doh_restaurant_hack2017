@@ -47,4 +47,27 @@ We are recruiting individuals for the following types of tasks:
     <br></br>ii. Design and start to develop an application for DOH staff that tracks upcoming inspections, displays information on expiring licenses, and aids in the efficient prioritization of follow-up inspections.
    <br></br>iii. Project management: Interested in helping us manage the project? Chat with one of the project leads!
 
+# Contribute your code
 
+Start by forking this repository to your Github account (click "Fork" in the top right). Then clone the forked version of the repository to your computer using the URL listed under "Clone or Download".
+```
+$ git clone <url-of-your-fork>
+```
+We use a triangular workflow - you should push to your Github account's fork, but fetch/pull from this master repository. Setting this up requires adding a remote to this repository account. "Git clone" will have created your repository in a new folder called "dc_doh_hackathon". Use these commands to add the remote to that new folder:
+```
+$ cd dc_doh_hackathon
+$ git remote add dohhackathon https://github.com/jasonasher/dc_doh_hackathon.git
+$ git remote -v
+  #you should see this:
+  dohhackathon       https://github.com/jasonasher/dc_doh_hackathon.git (fetch)
+  dohhackathon       https://github.com/jasonasher/dc_doh_hackathon.git (push)
+  origin          <your/forked/url> (push)
+  origin          <your/forked/url> (fetch)
+```
+Now instead of plain git push and git pull, use these:
+```
+$ git push origin <branch-name>         #pushes to your forked repo
+$ git pull dohhackathon <branch-name>   #fetches and merges from the dohhackathon repo
+Here’s more information on setting up triangular workflows (scroll to “Improved support…”).
+```
+Never worked with a triangular workflow before? Ask a project lead for help.
